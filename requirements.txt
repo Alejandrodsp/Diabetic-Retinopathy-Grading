@@ -1,0 +1,9 @@
+# pip install -qr requirements.txt
+
+pandas
+torch
+torchvision
+Pillow
+scikit-learn
+matplotlib
+seaborn
